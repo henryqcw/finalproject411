@@ -1,0 +1,51 @@
+body {
+  font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;
+}
+
+.card {
+  border-color: #3a3a4a;
+}
+
+.card-header {
+  font-weight: 600;
+  font-size: 0.95rem;
+  background-color: #2a2a3a;
+  color: #f0f0f0;
+  border-bottom-color: #3a3a4a;
+}
+
+.card-body {
+  background-color: #222230;
+  color: #e8e8e8;
+}
+
+.table {
+  color: #e8e8e8;
+}
+
+.table th {
+  color: #c0c0d0;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  border-color: #3a3a4a;
+}
+
+.table td {
+  border-color: #3a3a4a;
+  font-size: 0.85rem;
+  vertical-align: middle;
+}
+
+.table-hover tbody tr:hover td {
+  background-color: rgba(255, 255, 255, 0.05);
+  color: #ffffff;
+}
+
+p, li, small {
+  color: #d0d0e0;
+}
+
+h5, h6 {
+  color: #f0f0f0;
+}
