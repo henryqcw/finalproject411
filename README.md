@@ -14,7 +14,7 @@ https://mediaspace.illinois.edu/media/t/1_951riaq6
 Requires Python 3.9+, MySQL 8.0, MongoDB, and Neo4j running locally with the Academic World dataset already loaded.
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 cp .env.example .env
 ```
 
